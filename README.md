@@ -1,6 +1,6 @@
-# UniqueX Documentation
+# RareLink Documentation
 
-This repo stores technical documentation and wiki of UniqueX
+This repo stores technical documentation and wiki of RareLink
  
 powered by `mdbook`
 

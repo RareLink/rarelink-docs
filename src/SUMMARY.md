@@ -2,4 +2,4 @@
 
 - [Introduction](./intro.md)
 - [Architecture](./arch.md)
-- [Roadmap](./roadmap.md)
+- [FAQ](./faq.md)

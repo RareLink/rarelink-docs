@@ -1,6 +1,6 @@
 # RareLink Documentation
 
-This repo stores technical documentation and wiki of RareLink
+This repo stores technical documentation and wiki of ***RareLink***
  
 powered by `mdbook`
 
